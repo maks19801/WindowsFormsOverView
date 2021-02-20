@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyEnterPanel", "KeyEnterPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryScanner", "DirectoryScanner\DirectoryScanner.csproj", "{53140E96-AD09-4486-B5B1-3F9AB72B7F60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestOilGasStation", "BestOilGasStation\BestOilGasStation.csproj", "{F7E88A3D-18E4-4E93-86D5-FF60D061D62B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{53140E96-AD09-4486-B5B1-3F9AB72B7F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53140E96-AD09-4486-B5B1-3F9AB72B7F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53140E96-AD09-4486-B5B1-3F9AB72B7F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E88A3D-18E4-4E93-86D5-FF60D061D62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E88A3D-18E4-4E93-86D5-FF60D061D62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E88A3D-18E4-4E93-86D5-FF60D061D62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E88A3D-18E4-4E93-86D5-FF60D061D62B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
